@@ -1,5 +1,5 @@
 -Hi there! 👋 I'm Sadaf Younes
-Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast interning at CognoRise Infotech. I have a strong background in data science, machine learning, and software engineering, with hands-on experience in building data-driven solutions.
+Welcome to my GitHub profile! I'm a passionate Data Scientist and AI enthusiast. I have a strong background in data science, machine learning, and software engineering, with hands-on experience in building data-driven solutions.
 
 -🧠 What I Do
 Data Science: I work with data to extract insights, build predictive models, and solve real-world problems.
